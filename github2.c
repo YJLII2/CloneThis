@@ -3,4 +3,5 @@ int main(void)
 {
 	printf("success");
 	printf("hello");
+	//나이스
 }
